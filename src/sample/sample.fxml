@@ -34,7 +34,7 @@
               <items>
                 <MenuItem mnemonicParsing="false" text="В сети" />
                 <MenuItem mnemonicParsing="false" text="Оффлайн" />
-                  <MenuItem mnemonicParsing="false" text="Отошёл" />
+                  <MenuItem mnemonicParsing="false" text="Отошел" />
                   <MenuItem mnemonicParsing="false" text="Занят" />
               </items>
                <font>
